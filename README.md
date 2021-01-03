@@ -1,5 +1,3 @@
-##Prueba de cambio
-
 ## Automated ELK Stack Deployment
 
 This document contains the following details:
